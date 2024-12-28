@@ -71,4 +71,4 @@ https://www.zcyphygeodesy.com/en/h-nd-136.html
 ## [Algorithmic formula] PAGravf4.5 User Reference https://www.zcyphygeodesy.com/en/
     7.2.3 The geodetic numerical grid file
     8.7 Load deformation field approach from heterogeneous variations using SRBFs
-DOS executable test file and all input and output data.
+The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file and all input and output data.
