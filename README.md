@@ -3,6 +3,7 @@ https://www.zcyphygeodesy.com/en/h-nd-136.html
 ## [Algorithm purpose]
     From the regional residual equivalent water height (EWH) variation grid (cm), approach the regional residual surface loads using spherical radial basis functions (SRBFs) and then calculate the residual EWH estimation (cm) and residual load effects on the geoid or height anomaly (mm), ground gravity (μGal), gravity disturbance (μGal), ground tilt (SW, to the south and to the west, mas), vertical deflection (SW, to the south and to the west, mas), horizontal displacement (EN, to the east and to the north, mm), ground radial displacement (mm), ground normal or orthometric height (mm), radial gravity gradient (mE) or horizontal gravity gradient (NW, to the north and to the west, E) using SRBF synthesis.
     When computing the load effects of sea level variations, the height of the calculation point is the normal or orthometric height. When computing the load effects of land water variations, the height of the calculation point is the height relative to the Earth’s surface.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgs7bQuQYort-bsQUwlg44ugk.jpg)
 ## [Geophysical models]
     The Earth’s Load Love number file love_load_cm.dat from a Regional EIAstic Rebound calculator (REAR1.0, 2015).
 ## [Main program for test entrance]
@@ -72,3 +73,5 @@ https://www.zcyphygeodesy.com/en/h-nd-136.html
     7.2.3 The geodetic numerical grid file
     8.7 Load deformation field approach from heterogeneous variations using SRBFs
 The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file and all input and output data.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgtLbQuQYo7KXfvAIwlg44ugk.jpg)
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgtLbQuQYo0tbSrQcwlg44ugk.jpg)
